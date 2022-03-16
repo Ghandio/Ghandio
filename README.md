@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with **Android Studio,Flutter,Dart,RESTful APIS,Architecture patterns**
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **TDD**
 
 - 📫 How to reach me **ghandorwork@gmail.com**
 
