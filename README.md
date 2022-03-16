@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghandio&label=Profile%20views&color=0e75b6&style=flat" alt="ghandio" /> </p>
 
-- 🔭 I’m currently working with **Android SDK,Android Studio,Kotlin,RESTful APIS,Material Design,Architecture patterns**
+- 🔭 I’m currently working with **Android Studio,Flutter,Dart,RESTful APIS,Architecture patterns**
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
